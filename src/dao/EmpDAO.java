@@ -107,7 +107,7 @@ public class EmpDAO {
             psmt.setInt(4, deptNO);
             psmt.setString(5, name);
             psmt.executeUpdate();
-            return true;
+            return true; // 쿼리 문의 성공 실패만 판정 -> 반환값 확인 필요
         }
         catch (Exception e){
             System.out.println("UPDATE 실패");
