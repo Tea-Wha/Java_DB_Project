@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7a544a5-d939-4bce-a8dd-d58920910277" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dao/EmpDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/EmpDAO.java" afterDir="false" />
-    </list>
+    <list default="true" id="e7a544a5-d939-4bce-a8dd-d58920910277" name="변경" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +40,7 @@
     "project.structure.last.edited": "라이브러리",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "settings.editor.selected.configurable": "tasks.servers",
     "애플리케이션.JdbcMain.executor": "Run"
   }
 }]]></component>
